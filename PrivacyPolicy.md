@@ -4,10 +4,10 @@ June 11, 2015</span></p>
 <p class=MsoNormal><span style='font-size:10.0pt;font-family:Akkurat'>Thank you
 for visiting Wooql.com. Your privacy is very important to us and we ask that
 you please read this document.&nbsp; This Privacy Policy describes the types of
-information gathered by Standard Apps, Inc. (ÒProviderÓ, ÒusÓ or ÒweÓ) in the
+information gathered by Standard Apps, Inc. ("Provider", "us" or "we") in the
 process of providing this website, computing application, and the data,
 services, information, tools, functionality, updates and similar materials
-(collectively, the ÒServiceÓ), how we use it, with whom the information may be
+(collectively, the "Service"), how we use it, with whom the information may be
 shared, what choices are available to you regarding collection, use and distribution
 of information and our efforts to protect the information you provide to us
 through the Service. By using the Service, you hereby consent to allow us to
@@ -24,7 +24,7 @@ to have to update this policy from time to time as our service and feature set
 develop.&nbsp; If and when this document changes in a material way, you will be
 notified at your provided email address or by a posting on the Service, and can
 review the changes using our </span><a
-href="https://github.com/StandardApps/PrivacyPolicy"><span style='font-size:
+href="https://github.com/StandardApps/Privacy"><span style='font-size:
 10.0pt;font-family:Akkurat'>github archive</span></a><span style='font-size:
 10.0pt;font-family:Akkurat'>.</span></p>
 
@@ -194,7 +194,7 @@ Privacy Rights</span></b></p>
 law allows California residents to request information regarding our
 disclosures in the prior calendar year, if any, of their personally
 identifiable information to third parties. To make such a request, please
-contact us at privacy@[wooql.com] with ÒRequest for Privacy InformationÓ in the
+contact us at privacy@[wooql.com] with "Request for Privacy Information" in the
 subject line.<br>
 Please include enough detail for us to locate your file; at a minimum, your
 name, email, and username, if any. We will attempt to provide you with the
@@ -211,7 +211,7 @@ Information</span></b></p>
 have any questions or suggestions regarding our Privacy Policy, please contact
 us via e-mail at privacy@[wooql.com]. Finally, we take your privacy very
 seriously and you can find an archive of our policies on our </span><a
-href="https://github.com/StandardApps/PrivacyPolicy"><span style='font-size:
+href="https://github.com/StandardApps/Privacy"><span style='font-size:
 10.0pt;font-family:Akkurat'>github archive</span></a><span style='font-size:
 10.0pt;font-family:Akkurat'>.</span></p>
 
